@@ -4,7 +4,6 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import{RouterModule} from '@angular/router';
-
 import{HttpClientModule} from '@angular/common/http';
 
 
